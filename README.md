@@ -4,3 +4,4 @@ This repository contains my work during the class Algorithms and Data Structure
 <br />gdc- are greatest common divisors program in different languages
 <br />Fibonacci- computes fibonacii numbers with different types of algorithms
 <br />minim- find minimum value in an unordered list
+<br \>guess- using binary search fo find a number that the user was thinking about
