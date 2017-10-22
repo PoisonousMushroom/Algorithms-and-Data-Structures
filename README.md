@@ -1,7 +1,8 @@
 # Algorithms-and-Data-Structures
 This repository contains my work during the class Algorithms and Data Structure
-<br />Fractions are fraction operations program in different languages
-<br />gdc- are greatest common divisors program in different languages
+<br />Fractions- is a fraction operations program in different languages
+<br />gdc- is a greatest common divisors program in different languages
 <br />Fibonacci- computes fibonacii numbers with different types of algorithms
 <br />minim- find minimum value in an unordered list
-<br \>guess- using binary search fo find a number that the user was thinking about
+<br />guess- using binary search fo find a number that the user was thinking about
+<br />guess_pass- find out a password when the only knowledge is the number of characters
