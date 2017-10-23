@@ -9,3 +9,4 @@ This repository contains my work during the class Algorithms and Data Structure
 <br />reverse- reverses lists 
 <br />sortby- sorts a list based on a criteria
 <br />lexisort- lexicographical sort
+<br />stack- simple implementation of stack
