@@ -12,3 +12,4 @@ This repository contains my work during the class Algorithms and Data Structure
 <br />stack- simple implementation of stack
 <br />queue- simple implementation of queue
 <br />buffer- simple implementation of buffer
+<br />MaxHeap- simple implementation of a MaxHeap
